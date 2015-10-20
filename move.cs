@@ -7,6 +7,14 @@ public class move : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		transform.Translate (0, 0, speed * Time.deltaTime);
+		if( Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.RightArrow)){ 
+
+			transform.Translate (0, 0, speed * Time.deltaTime);
+		
+		}else if(Input.GetKey(KeyCode.DownArrow)){
+
+			transform.Translate (0, 0, -speed * Time.deltaTime);
+		
+		}
 	}
 }
