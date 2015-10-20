@@ -23,13 +23,13 @@
 
 ### 스크립트
 
-* [회전하기](https://github.com/evashork/Unity/blob/master/%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.html)
-* [전진하기]()
+* [회전하기]()
+* [전진하기](https://github.com/evashork/Unity/blob/master/move.cs)
 * [후진하기]()
-* [키보드입력]()
+* [키보드입력](https://github.com/evashork/Unity/blob/master/KeyInput.cs)
 * [좌우회전하기]()
 * [아이템먹기]()
-* [애니메이션 바꾸기]()
+* [애니메이션 바꾸기](https://github.com/evashork/Unity/blob/master/AnimationChange.cs)
 * [컴포넌트 가져오기]()
 * []()
 
