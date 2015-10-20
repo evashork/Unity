@@ -22,9 +22,8 @@
 
 ### 스크립트
 
-* [회전하기]()
-* [전진하기](https://github.com/evashork/Unity/blob/master/move.cs)
-* [후진하기]()
+* [회전하기](https://github.com/evashork/Unity/blob/master/spin.cs)
+* [전진,후진하기](https://github.com/evashork/Unity/blob/master/move.cs)
 * [키보드입력](https://github.com/evashork/Unity/blob/master/KeyInput.cs)
 * [좌우회전하기]()
 * [아이템먹기]()
