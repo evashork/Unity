@@ -26,10 +26,14 @@
 * [전진,후진하기](https://github.com/evashork/Unity/blob/master/move.cs)
 * [키보드입력](https://github.com/evashork/Unity/blob/master/KeyInput.cs)
 * [카메라 추적](https://github.com/evashork/Unity/blob/master/camera.cs)
-* [Destroy](https://github.com/evashork/Unity/blob/master/destroy.cs)
+* [Destroy](https://github.com/evashork/Unity/blob/master/destory.cs)
 * [코루틴](https://github.com/evashork/Unity/blob/master/courutin.cs)
 * [애니메이션 바꾸기](https://github.com/evashork/Unity/blob/master/AnimationChange.cs)
 * [컴포넌트 가져오기]()
 * [충돌 판정](https://github.com/evashork/Unity/blob/master/trigger.cs)
+
+### 팁
+* Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
+* gameObject 는 자기 자신을 가르킨다. ex) Destroy(gameObject);
 
 
