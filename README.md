@@ -25,10 +25,11 @@
 * [회전하기](https://github.com/evashork/Unity/blob/master/spin.cs)
 * [전진,후진하기](https://github.com/evashork/Unity/blob/master/move.cs)
 * [키보드입력](https://github.com/evashork/Unity/blob/master/KeyInput.cs)
-* [좌우회전하기]()
-* [아이템먹기]()
+* [카메라 추적](https://github.com/evashork/Unity/blob/master/camera.cs)
+* [Destroy](https://github.com/evashork/Unity/blob/master/destroy.cs)
+* [코루틴](https://github.com/evashork/Unity/blob/master/courutin.cs)
 * [애니메이션 바꾸기](https://github.com/evashork/Unity/blob/master/AnimationChange.cs)
 * [컴포넌트 가져오기]()
-* []()
+* [충돌 판정](https://github.com/evashork/Unity/blob/master/trigger.cs)
 
 
