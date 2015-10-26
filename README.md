@@ -32,6 +32,8 @@
 * [컴포넌트 가져오기]()
 * [충돌 판정](https://github.com/evashork/Unity/blob/master/trigger.cs)
 * [소리재생](https://github.com/evashork/Unity/blob/master/sound.cs)
+* [UI텍스트 유니티4](https://github.com/evashork/Unity/blob/master/text2.cs)
+* [UI텍스트 유니티5](https://github.com/evashork/Unity/blob/master/text.cs)
 
 ### 팁
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
