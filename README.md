@@ -34,9 +34,8 @@
 * [소리재생](https://github.com/evashork/Unity/blob/master/sound.cs)
 * [UI텍스트 유니티4](https://github.com/evashork/Unity/blob/master/text2.cs)
 * [UI텍스트 유니티5](https://github.com/evashork/Unity/blob/master/text.cs)
+* [오브젝트 컴포넌트 찾기](https://github.com/evashork/Unity/blob/master/find.cs)
 
 ### 팁
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
 * gameObject 는 자기 자신을 가르킨다. ex) Destroy(gameObject);
-* 이름으로 오브젝트 찾는 법
-``` GameObject.Find("PointMG").GetComponent<PointMGscript>().UpdatePoint(); ```
