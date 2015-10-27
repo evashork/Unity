@@ -39,4 +39,4 @@
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
 * gameObject 는 자기 자신을 가르킨다. ex) Destroy(gameObject);
 * 이름으로 오브젝트 찾는 법
-` GameObject.Find("PointMG").GetComponent<PointMGscript>().UpdatePoint(); `
+``` GameObject.Find("PointMG").GetComponent<PointMGscript>().UpdatePoint(); ```
