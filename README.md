@@ -17,6 +17,7 @@
 * [프리팹을 이용한 클론생성](http://blog.naver.com/gold_metal/220504917738)
 * [길찾기 AI](http://blog.naver.com/gold_metal/220511730779)
 * [유니티 스크립트 모음](http://sharkmino.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%A0%95%EB%A6%AC/Unity?page=2)
+* [유니티 동영상 강좌모음](http://racoon28.tistory.com/269)
 
 ---
 
@@ -35,6 +36,8 @@
 * [UI텍스트 유니티4](https://github.com/evashork/Unity/blob/master/text2.cs)
 * [UI텍스트 유니티5](https://github.com/evashork/Unity/blob/master/text.cs)
 * [오브젝트 컴포넌트 찾기](https://github.com/evashork/Unity/blob/master/find.cs)
+* [활성화,비활성화](https://github.com/evashork/Unity/blob/master/setactive.cs)
+* [배열](https://github.com/evashork/Unity/blob/master/array.cs)
 
 ### 팁
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
