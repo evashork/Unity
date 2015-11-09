@@ -40,6 +40,8 @@
 * [배열](https://github.com/evashork/Unity/blob/master/array.cs)
 * [리스트](https://github.com/evashork/Unity/blob/master/list.cs)
 * [리스트를 이용한 아이템 활성화](https://github.com/evashork/Unity/blob/master/list2.cs)
+* [메테리얼 색상교체](https://github.com/evashork/Unity/blob/master/Material.cs)
+* [시간이 지난 후 실행](https://github.com/evashork/Unity/blob/master/invoke.cs)
 
 ### 팁
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
