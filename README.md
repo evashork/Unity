@@ -18,6 +18,7 @@
 * [길찾기 AI](http://blog.naver.com/gold_metal/220511730779)
 * [유니티 스크립트 모음](http://sharkmino.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%A0%95%EB%A6%AC/Unity?page=2)
 * [유니티 동영상 강좌모음](http://racoon28.tistory.com/269)
+* [데이터 저장하기](http://kookiandkiki.blogspot.kr/2014/01/unity3d_28.html)
 
 ---
 
@@ -33,7 +34,7 @@
 * [컴포넌트 가져오기](https://github.com/evashork/Unity/blob/master/getcompent.cs)
 * [컴포넌트 활성화,비활성화](https://github.com/evashork/Unity/blob/master/compent.cs)
 * [충돌 판정](https://github.com/evashork/Unity/blob/master/trigger.cs)
-* [충돌 위치 찾기](https://github.com/evashork/Unity/blob/master/col.cs)
+* [충돌 위치 찾기 판정](https://github.com/evashork/Unity/blob/master/col.cs)
 * [소리재생](https://github.com/evashork/Unity/blob/master/sound.cs)
 * [UI텍스트 유니티4](https://github.com/evashork/Unity/blob/master/text2.cs)
 * [UI텍스트 유니티5](https://github.com/evashork/Unity/blob/master/text.cs)
