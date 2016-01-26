@@ -27,6 +27,7 @@
 * [회전하기](https://github.com/evashork/Unity/blob/master/spin.cs)
 * [전진,후진하기](https://github.com/evashork/Unity/blob/master/move.cs)
 * [키보드입력](https://github.com/evashork/Unity/blob/master/KeyInput.cs)
+* [프리팹 가져오기](https://github.com/evashork/Unity/blob/master/pre.cs)
 * [카메라 추적](https://github.com/evashork/Unity/blob/master/camera.cs)
 * [Destroy](https://github.com/evashork/Unity/blob/master/destory.cs)
 * [코루틴](https://github.com/evashork/Unity/blob/master/courutin.cs)
@@ -45,6 +46,7 @@
 * [리스트를 이용한 아이템 활성화](https://github.com/evashork/Unity/blob/master/list2.cs)
 * [메테리얼 색상교체](https://github.com/evashork/Unity/blob/master/Material.cs)
 * [시간이 지난 후 실행](https://github.com/evashork/Unity/blob/master/invoke.cs)
+* [자식으로 설정하기](https://github.com/evashork/Unity/blob/master/setparent.cs)
 
 ### 팁
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
