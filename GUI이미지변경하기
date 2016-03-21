@@ -1,0 +1,8 @@
+using UnityEngine.UI; // Unity5
+
+public GameObject dieimg;
+    
+void Start () {
+  dieimg = GameObject.Find("die_img");
+  dieimg.GetComponent<Image>().sprite = Resources.Load<Sprite>("dieimg/die2");  // resources 폴더가 있어야 한다.
+}
