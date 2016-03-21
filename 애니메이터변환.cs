@@ -1,15 +1,19 @@
 int aniNumber = 0;
+Animator anim;
 
-void start () {
-  anim = GetComponent<Animator>();
+// Use this for initialization
+void Start () {
+   anim = GetComponent<Animator>();
 }
-
+	
 public void ChangAni(){
-  aniNumber++;
-  if(aniNumber > 3)
-    aniNumber = 0;
+    aniNumber = 1;
+    anim.SetInteger("regen", aniNumber ); 
+}
     
-  anim.SetInterger("aniNum", aniNumer ); 
+public void StopAni(){
+    aniNumber = 0;
+    anim.SetInteger("regen", aniNumber ); 
 }
 
 // 애니메이터에 파라미터 값을 설정하여 애니메이션을 변환한다.
