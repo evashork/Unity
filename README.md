@@ -53,3 +53,4 @@
 ### 팁
 * Ctrl + Shift 를 누르면 면과 면사이를 붙일 수 있다.
 * gameObject 는 자기 자신을 가르킨다. ex) Destroy(gameObject);
+* 전체적인 조명이 어두울 땐 window - lightning 에서 skybox 옵션을 뺀다.
