@@ -8,6 +8,13 @@ public class Example : MonoBehaviour {
     void Example() {
         SendMessage("ApplyDamage", 5.0F);
     }
+
+    void OnTriggerEnter(Collider coll)
+	{
+		coll.SendMessage("ApplyDamage", 5.0F, SendMessageOptions.DontRequireReceiver);
+	}
+	
+	GameObject.Find("Box").SendMessage("Method", 1.0f);
 }
 
 
