@@ -26,7 +26,7 @@ public class PlayerMain : MonoBehaviour {
 		}
 
 		if(Input.GetKey(KeyCode.LeftArrow) || LeftA){
-			transform.Translate(-moveSpeed * Time.deltaTime, 0, 0);
+			transform.Translate(moveSpeed * Time.deltaTime, 0, 0);
 			if(dir > 0){
 				transform.localScale = new Vector3(transform.localScale.x * -1.0f, transform.localScale.y, transform.localScale.z);
 			}
