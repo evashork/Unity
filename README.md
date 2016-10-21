@@ -5,7 +5,7 @@
 ### 기본
 
 * [Rigidbody 와 Collider](http://blog.naver.com/gold_metal/220466872002)
-* [원는 오브젝트찾기](http://prosto.tistory.com/146)
+* [원하는 오브젝트찾기](http://prosto.tistory.com/146)
 * [기본 함수](http://blog.naver.com/gold_metal/220466872002)
 * [케릭터 이동구현](http://blog.naver.com/gold_metal/220470069117)
 * [케릭터 점프구현](http://blog.naver.com/gold_metal/220472492907)
@@ -20,6 +20,7 @@
 * [유니티 스크립트 모음](http://sharkmino.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%A0%95%EB%A6%AC/Unity?page=2)
 * [유니티 동영상 강좌모음](http://racoon28.tistory.com/269)
 * [데이터 저장하기](http://kookiandkiki.blogspot.kr/2014/01/unity3d_28.html)
+* [데이터 저장하기 - 배열](http://blog.naver.com/dlguswo33/220525323578)
 * [유니티AD 설정하기](http://gnupart.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%95%A0%EB%93%9CUnity-Ads-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%A0%81%EC%9A%A9)
 * [유니티 - 구글 플레이 서비스, 애플 게임센터, 애드몹 연동](http://gnupart.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%A0%ED%94%8C-%EA%B2%8C%EC%9E%84-%EC%84%BC%ED%84%B0-%EC%97%B0%EB%8F%99)
 
