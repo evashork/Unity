@@ -3,6 +3,8 @@ using System.Collections;
 using UnityEngine.UI; // Unity5
 using UnityEngine.SceneManagement;
 
+// 터치 이벤트 UI 제외 하는 법 http://prosto.tistory.com/97
+
 public class chrGS : MonoBehaviour {
 
 	int maxStage;
