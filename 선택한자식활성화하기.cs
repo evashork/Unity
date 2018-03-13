@@ -5,11 +5,6 @@ using UnityEngine;
 public class shopGS : MonoBehaviour {
 
     public Transform mario;
-
-	// Use this for initialization
-	void Start () {
-		
-	}
 	
     void Update()
     {
